@@ -17,8 +17,10 @@ The two screenshots of using /add-message are shown below in the pictures.<br />
 * Before we type in .add-message?s=How are you, the String message is 1. Hello and return to the next line. Our int i is 1. After we type in /add-message?s=How are you, our i = 1 now adds 1 so it becomes 2, and our message adds new content so it changes from 1. Hello   to  1. Hello    return to next line    2. How are you    return to next line.
  
 # Part 2: Show the path of the SSH key
-The screenshot of the path to the private and public keys for my SSH key for logging into ieng6 is shown below.
-<img src="Part2.png" alt="drawing" width="650"/> <br />
+The screenshot of the path to the private keys for my SSH key for logging into ieng6 is shown below.
+<img src="part2(1).png" alt="drawing" width="650"/> <br />
+The screenshot of the path to the public keys for my SSH key for logging into ieng6 is shown below.
+<img src="part2(2).png" alt="drawing" width="650"/> <br />
 The file id_rsa would be our private key, and file id_rsa.pub would be our public key.
 <br />
 <br />
